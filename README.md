@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piyush
-- 👀 I’m interested in ...learning new courses which can help in software developer
+- 👀 I’m interested in ...Web developer
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... piyush31009@gmail.com
