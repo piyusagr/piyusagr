@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @piyush31009
-- 👀 I’m interested in ...software developer
-- 🌱 I’m currently learning ...c++
+- 👋 Hi, I’m Piyush
+- 👀 I’m interested in ...learning new courses which can help in software developer
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...through email
+- 📫 How to reach me ... piyush31009@gmail.com
 
 <!---
 piyush31009/piyush31009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
