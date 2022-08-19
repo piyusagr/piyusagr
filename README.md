@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Piyush
-- 👀 I’m interested in ...Web developer
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... piyush31009@gmail.com
+<div style="background-color: white"> 
+  <centre><h1>Hi, I’m Piyush👋 </h1></centre>
+
+<br/>
+<h1>Front End Web Developer</h1>
+
+
+-  How to reach me ... piyush31009@gmail.com
 
 
 <!---
@@ -33,3 +36,4 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+  </div>
