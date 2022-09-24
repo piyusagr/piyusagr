@@ -1,4 +1,4 @@
-<div style="background-color: white"> 
+<div style="background-color: black"> 
   <centre><h1>Hi, I’m Piyush👋 </h1></centre>
 
 <br/>
@@ -31,6 +31,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <div align='center'>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush31009)](https://git.io/streak-stats)
 
 ![Piyush  Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyush31009&theme=github&hide_border=true&area=true)
 
