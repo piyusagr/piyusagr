@@ -2,7 +2,7 @@
   <centre><h1>Hi, I’m Piyush👋 </h1></centre>
 
 <br/>
-<h1>Front End Web Developer</h1>
+
 
 
 -  How to reach me ... piyush31009@gmail.com
