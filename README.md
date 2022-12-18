@@ -5,9 +5,12 @@
 
 
 
--  How to reach me ... piyush31009@gmail.com
-
-
+How to reach me ... piyush31009@gmail.com / piyush31006@gmail.com
+  
+<h2>  Hello, Want to know more about Piyush ? Read the description below
+    </h2><h3>
+    Piyush is a Pre-Final year student pursuing B.Tech. in Computer Science and Engineering . He has good knowledge of Frontend Development and currently making some projects on the front end using reactjs and the framework of css and  learning Backend Development through Django which makes it easier to build better web apps more quickly and with less code.. He loves programming in Python. He has good knowledge of Data Structures and Algorithms. He loves exploring and learning new technologies.
+    </h3>
 <!---
 piyush31009/piyush31009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -36,11 +39,12 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush31009)](https://git.io/streak-stats)
 
-![Piyush  Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyush31009&theme=github&hide_border=true&area=true)
-<p align="center"> 
-  Visitor's count<br>
-  <img src="https://profile-counter.glitch.me/piyush31009/count.svg" />
-</p>
+  <div align="center">
+    <p> ONGOING PROJECT</p>
+    <p> Registration/ login form using python: https://github.com/piyush31009/Registration-Form.git </p>
+    <p> Rock PaPer Scissor Game: https://rpsgame-7qp3poy25-piyush31009.vercel.app </p>
+    
+  </div>
 <br />
 
   </div>
