@@ -9,7 +9,7 @@ How to reach me ... piyush31009@gmail.com / piyush31006@gmail.com
   
 <h2>  Hello, Want to know more about Piyush ? Read the description below
     </h2><h3>
-    Piyush is a Pre-Final year student pursuing B.Tech. in Computer Science and Engineering . He has good knowledge of Frontend Development and currently making some projects on the front end using reactjs and the framework of css and  learning Backend Development through Django which makes it easier to build better web apps more quickly and with less code.. He loves programming in Python. He has good knowledge of Data Structures and Algorithms. He loves exploring and learning new technologies.
+    Piyush is a Final year student pursuing B.Tech. in Computer Science and Engineering . He has good knowledge of Frontend Development and currently making some projects on the front end using reactjs and the framework of css and  learning Backend Development through Django which makes it easier to build better web apps more quickly and with less code.. He loves programming in Python. He has good knowledge of Data Structures and Algorithms. He loves exploring and learning new technologies.
     </h3>
 <!---
 piyush31009/piyush31009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
