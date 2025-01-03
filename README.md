@@ -1,60 +1,39 @@
-<!-- <div style="background-color: black"> 
-  <centre><h1>Hi, I’m Piyush👋 </h1></centre>
+# 👋 Hi, I'm Piyush Agrawal  
 
-<br/> -->
+## Welcome to my GitHub! 
+      I'm a passionate and undergrad developer with a knack for crafting impactful projects and solving complex challenges. My 
+      expertise lies in front-end development, full-stack web applications, and leveraging modern technologies to deliver scalable
+      and efficient solutions.
+      
+      As a passionate programmer, I enjoy working with technologies like JavaScript, Python, and TypeScript. My strong understanding
+      of Data Structures and Algorithms helps me tackle problems effectively and build optimized solutions. Always eager to learn, 
+      I actively explore and adopt new tools and frameworks, making me a reliable and adaptable team player.
 
+##  About Me  
+-  **Languages:** C, C++, Python, SQL, TypeScript, JavaScript  
+-  **Web Development:** ReactJS, NextJS, Django, Tailwind CSS, Bootstrap, REST API
+-  **Databases:** MySQL, PostgreSQL, SQLite  
+-  **Developer Tools:** Git, GitHub, WebStorm, VsCode, PostMan, ApiDog
+-  Strong foundation in **Data Structures and Algorithms**  
 
-
-How to reach me ... piyush31009@gmail.com
-  
-<h2>  Hello, Want to know more about Piyush ? Read the description below
-    </h2><h3>
-    Piyush  has good knowledge of Frontend Development and currently making some projects on the front end using reactjs and the framework of css and  learning Backend Development through Django which makes it easier to build better web apps more quickly and with less code.. He loves programming in Python. He has good knowledge of Data Structures and Algorithms. He loves exploring and learning new technologies.
-    </h3>
-<!---
-piyusagr/piyusagr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2>CONNECT ME</h2>
-<p align="left">
-  </p><p align="left">
-<a href="https://github.com/piyusagr/web-design"> <img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="github" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width:100%;"> </a>
-<a href="https://www.linkedin.com/in/piyush-agrawal-9859801b9"> <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"> </a>
- <a href="https://www.hackerrank.com/piyush31009?hr_r=1" rel="nofollow"> <img src="https://camo.githubusercontent.com/c27e320bc0dd83da2ac9b3e89b20480c9896c4d732ce13a21bf09e77cbc4133a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6861636b657272616e6b2e737667" alt="hackerrank" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" style="max-width:100%;"> </a> 
- <a href="https://stackoverflow.com/users/19555581/piyush-agrawal" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.P-O-mypvtwiZ2bObQdirJAHaC_?pid=ImgDet&rs=1" alt="stackflow" width="40" height="40" style="max-width:100%;"> </a> 
-</p><p><br/></p>
-<h2>Tech Stacks</h2>
-
-<ul>
-  <li>C/C++</li>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>ReactJS</li>
-  <li>Javascript</li>
-  <li> SQL</li>
-  <li>Bootstrap</li>
-  <li>Django</li>
-  <li>Git/Github</li>
-  <li>Linux</li>
-  <li>NextJS</li>
-  <li>Tailwindcss</li>
-  <li>GUI Application</li>
-</ul>
+I thrive on exploring new technologies, mastering tools, and building solutions that make a difference. Whether it’s creating seamless user interfaces or developing robust backend systems, I enjoy every step of the development process.  
 
 
-  <div>
-    <h3>Completed Project</h3>
-    <ul>
-      <li>MeetMyJourney: https://github.com/piyusagr/MeetMyJourney.git</li>
-      <li>Whatsapp Message Automation: https://github.com/piyusagr/Automate-whatsapp-mssg.git</li>
-      <li>Small minore project : https://github.com/piyusagr/small-mini-project.git &nbsp<ul>
-        <li> Guess the number</li>
-        <li> Dice roll</li>
-        <li> Random password generator</li>
-        </ul>
-      </li>
-      <li>My Portfolio: https://github.com/piyusagr/Portfolio.git</li>
-      <li> Keep notes: https://github.com/piyusagr/Keep-Notes.git</li>
-    </ul>
-  </div>
+##  Projects  
+Here are a few highlights of my work:  
+- [**MeetMyJourney**](https://github.com/piyusagr/MeetMyJourney): A full-stack web application for scheduling mock interviews, sharing interview experiences, and staying updated with the latest technology trends. Built with Vite, ReactJS, Django, and SQLite.  
+- [**Automate WhatsApp Messages**](https://github.com/piyusagr/Automate-whatsapp-mssg): A Python-based tool with a Tkinter GUI to schedule and send over 500 automated WhatsApp messages daily.  
+- [**Keep Notes**](https://github.com/piyusagr/Rock-paper-scissor): A dynamic web application for managing notes and tasks, developed with ReactJS, HTML, CSS, and Bootstrap.  
+
+## 🌱 What I'm Learning  
+I’m currently diving deeper into advanced TypeScript, optimizing front-end performance, laravel and exploring cloud platforms to broaden my skill set.  
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=piyusagr&theme=dark&hide_border=true)<br/>
+
+## 📫 Let's Connect  
+- 🌐 **GitHub**: [github.com/piyusagr](https://github.com/piyusagr)  
+- 💼 **LinkedIn**: [linkedin.com/in/piyush-agrawal-9859801b9/](https://linkedin.com/in/piyush-agrawal-9859801b9/)  
+- 📩 **Email**: piyush31009@gmail.com  / piyush31006@gmail.com
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss exciting ideas. Let’s build something amazing together!  
